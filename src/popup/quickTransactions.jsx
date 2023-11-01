@@ -1,4 +1,3 @@
-const { app, BrowserWindow } = require('electron')
 
 function KoopTransaction() {
     return (
